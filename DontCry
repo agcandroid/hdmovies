@@ -7,7 +7,8 @@
             "title_promote": "Raid: Shadow Legends",
             "url_promote": "com.plarium.raidlegends",
             "desc_promote": "Who's the Talk of the Town! -- A western-themed strategy game!",
-            "img_promote": "https:\/\/lh3.googleusercontent.com\/VwJOgj0Papli5Xqe2ATOvDhe94L1_f4OHGB4h_9qVAvTFojEFXiqrHMyp8H6iJmpeg=s180-rw"
+            "img_promote": "https:\/\/lh3.googleusercontent.com\/VwJOgj0Papli5Xqe2ATOvDhe94L1_f4OHGB4h_9qVAvTFojEFXiqrHMyp8H6iJmpeg=s180-rw",
+            "chats_room": "https://socket-io-chat.now.sh"
         }
     ]
 }
