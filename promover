@@ -1,20 +1,26 @@
 {
-"results":
+"promote":
 	[
 		{
-			"id": "12",
-			"package_name": "com.southearth.indoxxi.layarkaca21",
-			"maintenance": "false",
-			"isUpdate": "true",
-			"img_maintenance": "https://kepegawaian.uma.ac.id/wp-content/uploads/2018/09/UMA_under-maintenance.jpg",
+			"id": "3",
 			"title_promote": "Raid: Shadow Legends",
-			"url_promote": "com.plarium.raidlegends",
-			"desc_promote": "Who's the Talk of the Town! -- A western-themed strategy game!",
 			"img_promote": "https://lh3.googleusercontent.com/VwJOgj0Papli5Xqe2ATOvDhe94L1_f4OHGB4h_9qVAvTFojEFXiqrHMyp8H6iJmpeg=s180-rw",
-			"created_by": "7",
-			"created_at": "2020-03-31 15:19:28",
-			"updated_by": "7",
-			"updated_at": "2020-03-31 17:10:58"
+			"desc_promote": "Hadapi pertempuran dalam RPG fantasi dengan visual memukau yang realistis bersama ratusan Juara dari 16 faksi yang bisa dimainkan.",
+			"url_promote": "com.plarium.raidlegends"
+			},
+			{
+			"id": "4",
+			"title_promote": "Star Wars : Galaxy of Heroes",
+			"img_promote": "https://lh3.googleusercontent.com/7QCvTYyPSo0xXIQ_XNT0tvbcfzv5VrIH5hw-6uA9fjp8NpLRw0EZRK_TrGLnqDwO-7g=s180-rw",
+			"desc_promote": "Wujudkan impian Star Wars kamu dengan bertarung bersama para pahlawan sisi gelap dan terang favoritmu di berbagai lokasi ikonis untuk menjadi master galaksi.",
+			"url_promote": "com.ea.game.starwarscapital_row"
+			},
+			{
+			"id": "5",
+			"title_promote": "Wild Frontier",
+			"img_promote": "https://lh3.googleusercontent.com/Ozh08HBqbPmf-oqfxcizY-l3Oy1GpYIy0k-343tH4CQ5fyGszF7skPfwK1EU92yXK-E=s180-rw",
+			"desc_promote": "Who's the Talk of the Town! -- A western-themed strategy game!",
+			"url_promote": "com.global.west"
 		}
 	]
 }
