@@ -2,25 +2,22 @@
 "promote":
 	[
 		{
-			"id": "3",
-			"title_promote": "Raid: Shadow Legends",
-			"img_promote": "https://lh3.googleusercontent.com/VwJOgj0Papli5Xqe2ATOvDhe94L1_f4OHGB4h_9qVAvTFojEFXiqrHMyp8H6iJmpeg=s180-rw",
-			"desc_promote": "Hadapi pertempuran dalam RPG fantasi dengan visual memukau yang realistis bersama ratusan Juara dari 16 faksi yang bisa dimainkan.",
-			"url_promote": "com.plarium.raidlegends"
+			"title_promote": "War Forces Command Soldier : Battle Royale",
+			"img_promote": "https://lh3.googleusercontent.com/bFgFQ4FYRxRtNrOv6MVyzdadeU8xHvV5Tf2nszmDHWwaA9nncSRizXq6OMO6b0p5gCNk=s180-rw",
+			"desc_promote": "A new version of The War Forces Command Soldier : Battle Royale comes",
+			"url_promote": "com.ogifstudio.warforcecommando"
 			},
 			{
-			"id": "4",
-			"title_promote": "Star Wars : Galaxy of Heroes",
-			"img_promote": "https://lh3.googleusercontent.com/7QCvTYyPSo0xXIQ_XNT0tvbcfzv5VrIH5hw-6uA9fjp8NpLRw0EZRK_TrGLnqDwO-7g=s180-rw",
-			"desc_promote": "Wujudkan impian Star Wars kamu dengan bertarung bersama para pahlawan sisi gelap dan terang favoritmu di berbagai lokasi ikonis untuk menjadi master galaksi.",
-			"url_promote": "com.ea.game.starwarscapital_row"
+			"title_promote": "Play HD Movies Indoxxi - Nonton Lk21 Sub Indo",
+			"img_promote": "https://lh3.googleusercontent.com/VHikpUjdz4tLn8yOQ9Mn50CkDGz1G45wcqB85bXd3wErhkNDaF9Uir64kFjZAIis7GQ=s180-rw",
+			"desc_promote": "Nonton Film Gratis HD yang didukung dengan film HD dengan kualitas gambar yang sangat bagus.",
+			"url_promote": "com.ogifmovies.hdplayxxi"
 			},
 			{
-			"id": "5",
-			"title_promote": "Wild Frontier",
-			"img_promote": "https://lh3.googleusercontent.com/Ozh08HBqbPmf-oqfxcizY-l3Oy1GpYIy0k-343tH4CQ5fyGszF7skPfwK1EU92yXK-E=s180-rw",
-			"desc_promote": "Who's the Talk of the Town! -- A western-themed strategy game!",
-			"url_promote": "com.global.west"
+			"title_promote": "Strikes 1945 Commander Air Force",
+			"img_promote": "https://lh3.googleusercontent.com/Acdhu87yjwjLJJD7CNoLOT10fAVoR931wfcDGYy1NWDB6KubaAShrz9GT6EPCgbvP4U=s180-rw",
+			"desc_promote": "The first game in the 1945 Striker series was implemented on a mobile device.",
+			"url_promote": "com.ogif.commanderaircombats"
 		}
 	]
 }
