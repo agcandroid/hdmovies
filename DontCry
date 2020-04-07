@@ -10,8 +10,8 @@
             "desc_promote": "A new version of The War Forces Command Soldier : Battle Royale comes",
             "img_promote": "https://lh3.googleusercontent.com/bFgFQ4FYRxRtNrOv6MVyzdadeU8xHvV5Tf2nszmDHWwaA9nncSRizXq6OMO6b0p5gCNk=s180-rw",
             "chats_room": "https://socket-io-chat.now.sh",
-            "de_play": "http://database.gdriveplayer.us/player.php?imdb=",
-            "my_chosen": "http://database.gdriveplayer.me/player.php?type="
+            "de_play": "https://database.gdriveplayer.us/player.php?imdb=",
+            "my_chosen": "https://database.gdriveplayer.me/player.php?type="
         }
     ]
 }
