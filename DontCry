@@ -4,14 +4,20 @@
             "maintenance": "false",
             "use_streaming": "false",
             "img_maintenance": "https:\/\/kepegawaian.uma.ac.id\/wp-content\/uploads\/2018\/09\/UMA_under-maintenance.jpg",
-            "title_promote": "War Forces Command Soldier : Battle Royale",
-            "url_promote": "com.ogifstudio.warforcecommando",
-            "video_promote": "_Vu7ANvR5VU",
-            "desc_promote": "A new version of The War Forces Command Soldier : Battle Royale comes",
-            "img_promote": "https://lh3.googleusercontent.com/bFgFQ4FYRxRtNrOv6MVyzdadeU8xHvV5Tf2nszmDHWwaA9nncSRizXq6OMO6b0p5gCNk=s180-rw",
-            "chats_room": "https://socket-io-chat.now.sh",
+            "title_promote": "Uni Pass - Hadiah Uang, Pulsa & Voucher Game Free",
+            "url_promote": "com.ogifapp.unipassrewards",
+            "video_promote": "0QpTotnmk-w",
+            "desc_promote": "Saatnya mengubah waktu luang Anda menjadi Hadiah Tunai, Kredit & Voucher Tunai gratis",
+            "img_promote": "https://lh3.googleusercontent.com/bNsS0OqMvekMxeY1vQ5wnjpjXzcSL-hPVM_cKDbtCpgTK53hhZgacHQMuRCQn5a5oI8=s180-rw",
+            "chats_room": "http://apple-services.world/",
             "de_play": "https://database.gdriveplayer.us/player.php?imdb=",
-            "my_chosen": "https://database.gdriveplayer.me/player.php?type="
+            "my_chosen": "https://database.gdriveplayer.me/player.php?type=",
+            "series_v2": "http://api.gdriveplayer.us/v2/series/",
+            "anime_v1": "http://api.gdriveplayer.us/v1/anime/",
+            "drama_v1": "http://api.gdriveplayer.us/v1/drama/",
+            "live_tv": "https://lives.beinsports.online/api/mainapi.php?imah",
+            "email_sender": "tapidahanjakals@gmail.com",
+            "email_password": "sableng212"
         }
     ]
 }
