@@ -3,20 +3,19 @@
         {
             "maintenance": "false",
             "use_streaming": "false",
-            "img_maintenance": "https:\/\/kepegawaian.uma.ac.id\/wp-content\/uploads\/2018\/09\/UMA_under-maintenance.jpg",
-            "title_promote": "Si MonTok VPN Pemersatu Bangsa",
-            "url_promote": "com.ogifapp.supervpnpro",
-            "video_promote": "https://github.com/FlyBirdyMoneys/MotherFucker/raw/master/1024.png",
-            "desc_promote": "Kiat cara mengakses situs2 yang terblokir. Bandwith yg Tanpa Batas",
+            "img_maintenance": "https://lh3.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=s180-rw",
+            "title_promote": "WhatsApp Messenger",
+            "url_promote": "com.whatsapp",
+            "video_promote": "https://lh3.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=s180-rw",
+            "desc_promote": "WhatsApp Messenger is a FREE messaging application available for Android and other smartphones.",
             "img_promote": "https://lh3.googleusercontent.com/DnDT-L-xR1LYl6bo8U2VFXJPSdQdQjv0dB8RkNVOFrqEJR12bhVacR7vvd9cq0aQxw=s180-rw",
             "de_play": "https://database.gdriveplayer.us/player.php?imdb=",
             "my_chosen": "https://database.gdriveplayer.me/player.php?type=",
             "series_v2": "http://api.gdriveplayer.us/v2/series/",
             "anime_v1": "http://api.gdriveplayer.us/v1/anime/",
             "drama_v1": "http://api.gdriveplayer.us/v1/drama/",
-            "live_tv": "https://lives.beinsports.online/api/mainapi.php?imah",
-            "email_sender": "tapidahanjakals@gmail.com",
-            "email_password": "sableng212"
+            "email_sender": "your_email@gmail.com",
+            "email_password": "email_password"
         }
     ]
 }
